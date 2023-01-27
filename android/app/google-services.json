@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552339378459",
+    "project_id": "login-ce4d6",
+    "storage_bucket": "login-ce4d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552339378459:android:e4f0a91f7bc413cbcbc3be",
+        "android_client_info": {
+          "package_name": "nodues1.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552339378459-9qieer9b9reir9f8vfc0k5lomjtvpqjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTkwEvh3hpwXxVacIUhq-D1CH-Ujmf9eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552339378459-9qieer9b9reir9f8vfc0k5lomjtvpqjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
